@@ -1,0 +1,4 @@
+streamlit==1.10.0  # Modify as per the latest compatible version
+librosa==0.9.1
+numpy==1.21.2
+tensorflow==2.11.0  # or keras==2.6.0, depending on which you use
